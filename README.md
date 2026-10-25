@@ -1,5 +1,4 @@
-# ThaliBento · JAL-PS-01
-
+# ThaliBento  
 Prototype for the **Thapar Japan Hackathon 2026** (offline round, 24–25 Oct, TIET Patiala).
 Track: **In-Flight Hospitality & Dietary Intelligence** (Japan Airlines).
 Team **Caffeinated Nerds**: Bhavyam Misra · Gunagye Jain · Shefali Sharma. 
